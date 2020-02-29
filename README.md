@@ -1,6 +1,6 @@
+家庭作业专用monorepo项目（后续再改结构）
 
-## 家庭作业: React DND实现的一个简单卡片排序
-
+## React DND实现的一个简单卡片排序
 ### 启动项目
 ``` js
 # 安装依赖
@@ -8,6 +8,9 @@ yarn
 # 启动
 yarn start
 ```
+
+</br>
+</br>
 
 ### 参考文档
 - https://www.ctolib.com/topics-136407.html
