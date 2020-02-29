@@ -3,6 +3,9 @@
 ## React DND实现的一个简单卡片排序
 ### 启动项目
 ``` js
+# 下载项目
+git clone https://github.com/screetBloom/react-test-monorepo.git
+cd react-test-monorepo
 # 安装依赖
 yarn 
 # 启动
